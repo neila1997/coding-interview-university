@@ -1971,16 +1971,4 @@ Sit back and enjoy. "Netflix and skill" :P
 - [Directory of Online CS Courses](https://github.com/open-source-society/computer-science)
 - [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses)
 
-git checkout -b progress
 
-git remote add jwasham https://github.com/jwasham/coding-interview-university
-
-git fetch --all
-
-git add .
-
-git commit -m "Marked x"
-
-git rebase jwasham/master
-
-git push --force
